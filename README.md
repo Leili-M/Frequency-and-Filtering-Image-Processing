@@ -85,6 +85,6 @@ Combined the blurred image and edges:
 | 0.5 | Balanced cartoon effect |
 | 1.0 | Maximum stylization |
 
-![part2 Result](results/part2_result.png)
+![part2 Result](results/Q2-output-3.png)
 
 
